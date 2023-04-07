@@ -13,4 +13,11 @@ Transparency in Coverage analysis for insurance providers and for patients
 ### Python
 * You need to ensure the file path's are correct per your files
 
+#### Run data processing through Jupyter lab or Databricks
 * Run python. -> `jupyter ia_health_plans_analysis.ipynb`
+
+#### Run Streamlit app
+* Run Web interface app. -> ```
+cd Transparency_Dashboard 
+streamline run app.py
+```

@@ -17,7 +17,8 @@ Transparency in Coverage analysis for insurance providers and for patients
 * Run python. -> `jupyter ia_health_plans_analysis.ipynb`
 
 #### Run Streamlit app
-* Run Web interface app. -> ```
-cd Transparency_Dashboard 
-streamline run app.py
+* Run Web interface app. -> 
+```
+  cd Transparency_Dashboard 
+  streamline run app.py
 ```

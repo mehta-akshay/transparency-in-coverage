@@ -20,5 +20,6 @@ Transparency in Coverage analysis for insurance providers and for patients
 * Run Web interface app. -> 
 ```
   cd Transparency_Dashboard 
+  unzip Final Dataset Cleaned.csv.zip
   streamline run app.py
 ```
